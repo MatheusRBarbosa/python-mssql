@@ -11,4 +11,4 @@ The image is already configured with **python3** and **ODBC**, ready to use.
 * pyodbc ( Already configured )
 
 
-### [Dockerhub](https://hub.docker.com/repository/docker/matheusrbarbosa/python3-mssql)
+### [Dockerhub](https://hub.docker.com/r/matheusrbarbosa/python3-mssql)
